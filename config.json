@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesarse",
+        "uuid": 18438948,
+        "checksum": "bjn9ts"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
